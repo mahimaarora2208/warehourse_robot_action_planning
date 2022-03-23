@@ -1,0 +1,7 @@
+(+ Done
+ - To Do )
+
+ - Add documentation for methods
+ - complete ######## tasks
+ - fill dictionary from user input
+ 

@@ -1,0 +1,10 @@
+{
+    "python.formatting.autopep8Args": [
+        "--ignore",
+        "E402"
+    ],
+    "python.linting.pycodestyleArgs": [
+        "--max-line-length=110",
+        "--ignore=E402"
+    ]
+}
